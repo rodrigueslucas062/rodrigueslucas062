@@ -1,6 +1,5 @@
 ## Alou galerinha
 
-- Estudante de Sistemas de Informação, Interesse nas áreas ligadas à programação, segurança e desenvolvimento de software. Entusiasta de novas tecnologias, sempre buscando novos meios de aprender, a fim de aprimorar cada vez mais minha formação profissional.
 
 <!-- paineis iniciais-->
 
