@@ -1,6 +1,6 @@
 ## Alou galerinha
 
-- Estudante de Sistemas de Informação, Interesse nas áreas ligadas à programação, segurança e desenvolvimento de software. Entusiasta de novas tecnologias, sempre buscando novos meios de aprender, a fim de aprimorar cada vez mais minha formação profissional.
+- Estudante de Sistemas de Informação apaixonado por programação e desenvolvimento de software. Atuo como desenvolvedor front-end, em tecnologias como React e Next.js. Comprometido em aprimorar continuamente minhas habilidades, busco constantemente aprender e aplicar conhecimentos para impulsionar minha formação profissional.
 
 <!-- paineis iniciais-->
 <div align="center">
